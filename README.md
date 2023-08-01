@@ -1,0 +1,1 @@
+# Snowflake-Performance-Tuning-Efficiently-Query-AWS-S3-Data-using-Partitioned-External-Tables
