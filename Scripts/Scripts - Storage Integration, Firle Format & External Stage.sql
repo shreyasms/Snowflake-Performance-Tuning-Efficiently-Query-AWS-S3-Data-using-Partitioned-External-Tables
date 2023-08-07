@@ -5,7 +5,7 @@ CREATE or replace STORAGE INTEGRATION aws_s3_integration
 TYPE = EXTERNAL_STAGE
 STORAGE_PROVIDER = 'S3'
 ENABLED = TRUE
-STORAGE_AWS_ROLE_ARN = 'arn:aws:iam::757586107603:role/snowflake-access-role'
+STORAGE_AWS_ROLE_ARN = '====== IAM Role ARN ======='
 STORAGE_ALLOWED_LOCATIONS = ('s3://snowflake-external-table-demo-0522/') ;
 
 --------- File Format Script -----------
